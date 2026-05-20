@@ -1,6 +1,7 @@
 # Ottenok
 
 Ottenok is an AI-powered language learning tool that helps you proofread, translate, and learn languages with intelligent text checking, for better language study.
+
 Check official website: [Ottenok](https://lang.ottenok.com)
 
 ## Support
