@@ -1,6 +1,31 @@
 # Ottenok
 
+[Official Website](https://lang.ottenok.com) | [Try Now](https://lang.ottenok.com/download)
+
 Ottenok is an AI-powered language learning tool that helps you proofread, translate, and learn languages with intelligent text checking, for better language study.
+
+## Example Screenshots
+
+### Desktop
+
+<p align="center">
+  <img src="pics/example_pic1.png" width="45%" />
+  <img src="pics/example_pic8.png" width="45%" />
+</p>
+
+### Mobile
+
+<p align="center">
+  <img src="pics/example_pic2.png" width="30%" />
+  <img src="pics/example_pic3.png" width="30%" />
+  <img src="pics/example_pic4.png" width="30%" />
+</p>
+
+<p align="center">
+  <img src="pics/example_pic5.png" width="30%" />
+  <img src="pics/example_pic6.png" width="30%" />
+  <img src="pics/example_pic7.png" width="30%" />
+</p>
 
 ## Support
 
@@ -91,6 +116,10 @@ All your data is stored locally in a DuckDB database:
 ## Technology
 
 Built with Tauri and Rust for native performance and security.
+
+## Getting Started
+
+**Note**: Ottenok requires you to configure your own AI service API. Please follow the [API Configuration Guide](https://lang.ottenok.com/guide#getting-api-keys) to set up your AI service.
 
 ## License
 
